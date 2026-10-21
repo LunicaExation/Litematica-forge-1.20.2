@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "org.thinkingstudio.forgematica.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "minVersion": "0.8",
+  "refmap": "forgematica.refmap.json",
+  "client": [
+    "MixinModelDataManager"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
